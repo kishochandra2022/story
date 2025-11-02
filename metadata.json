@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Story Generator",
+  "description": "A simple and elegant web application that uses the Gemini API to generate creative stories based on user prompts. Enter a topic, and let the AI craft a unique narrative for you.",
+  "requestFramePermissions": []
+}
